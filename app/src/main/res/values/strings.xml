@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewBindingAndDataBinding</string>
+    <string name="set_name">Set Name</string>
+    <string name="show_user_details">Show User Details</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
